@@ -45,5 +45,5 @@
 ## Рузельтаты
 ![Пример 1](images/image1.png)
 ![Пример 2](images/image2.png)
-![Пример 3](images/image4.png)
+![Пример 3](images/image3.png)
 ![Пример 4](images/image4.png)
